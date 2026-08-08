@@ -37,4 +37,4 @@ I build web services, automate data workflows with Airflow & Docker, and turn co
 ### 📫 Get in touch
 
 [![GitHub](https://img.shields.io/badge/GitHub-Nadia902-181717?style=for-the-badge&logo=github)](https://github.com/Nadia902)
-[![Telegram](https://img.shields.io/badge/Telegram-@your_username-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Nadia90288)
+[![Telegram](https://img.shields.io/badge/Telegram-@Nadia90288-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Nadia90288)
