@@ -3,7 +3,7 @@
 Python Developer specializing in Backend, ETL pipelines, and Data Warehousing.  
 I build web services, automate data workflows with Airflow & Docker, and turn complex requirements into clean, maintainable code.
 
-🏆 3rd place at a regional hackathon | 📚 Technical documentation author | 🎤 Conference speaker  
+🏆 3rd place at a regional hackathons | 📚 Technical documentation author | 🎤 Conference speaker  
 
 ---
 
